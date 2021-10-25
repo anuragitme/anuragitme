@@ -44,4 +44,6 @@
   <img align="center" width="40px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" />
 </a>
 
-  </div> 
+  </div>
+
+  ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.gif) 
