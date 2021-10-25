@@ -46,4 +46,4 @@
 
   </div>
 
-  ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.gif) 
+  ![snake gif](https://github.com/anuragitme/anuragitme/blob/output/github-contribution-grid-snake.gif) 
