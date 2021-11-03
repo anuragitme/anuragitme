@@ -19,9 +19,9 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragitme&repo=Dark_Riders-woc_4.0-)](https://github.com/anuragitme/Dark_Riders-woc_4.0-)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragitme&repo=Dark_Riders-woc_4.0-)](https://github.com/anuragitme/Dark_Riders-woc_4.0-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragitme&repo=Hacktoberfest_DSA_2021)](https://github.com/anuragitme/Hacktoberfest_DSA_2021)
-
+ -->
  
 ## Languages & 🛠 Tools I use :
 
