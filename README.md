@@ -1,5 +1,5 @@
 
-# Hi, I'm Anurag Sharma  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Anurag Sharma  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
   [![Github](https://img.shields.io/github/followers/anuragitme?label=Follow&style=social)](https://github.com/anuragitme) &nbsp; ![views](https://komarev.com/ghpvc/?username=anuragitme)
 
