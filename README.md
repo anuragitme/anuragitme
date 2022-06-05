@@ -8,7 +8,7 @@
 <h2 align="left"> About Me 🚀</h1>
 <div align="left">
 🎓 I'm a Computer Science student of MNNIT Allahabad. <br/>
-🌱 I’m currently learning everything <img src="./smiley-emoji.gif" width="18px"><br/>
+🌱 I’m currently learning everything <img src="./smiley-emoji.gif" height="18px"><br/>
 ⭐️ I'm interested in competitive programming and software development.
 </div>
 <br>
